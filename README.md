@@ -1,6 +1,6 @@
 # Welcome to my GitHub page! 👋 - Ayush Pathak
 
-I am a Software Engineer with a strong foundation in kinematics and dynamics of robotics, I combine deep learning with traditional robotics to help robots see, move and think! Additionally, I have experience in backend development - API design & microservices, and cloud, enabling me to build scalable, data-driven robotic systems.
+I am a Software Engineer with a strong foundation in kinematics and dynamics of robotics as well as computational biology, I combine deep learning with traditional robotics to help robots see, move and think! Additionally, I have experience in backend development - API design & microservices, and cloud, enabling me to build scalable, data-driven systems. I have been devling into comp bio for the past 2 years, gaining both wet lab and bio experiences during this time. 
 
 ## 🎓 Experience
 ### Baker Lab @ NCSU - Graduate Research Assistant
@@ -73,7 +73,7 @@ I am a Software Engineer with a strong foundation in kinematics and dynamics of 
 ## 📫 Connect With Me
 - **Email:** ayush7pathak@gmail.com
 - **LinkedIn:** [Ayush Pathak](https://www.linkedin.com/in/ayushpathak19/)
-- **Website:** [Under Construction, launching soon!](https://github.com/Raphaeal19)
+- **Website:** [My website](https://ayushpathak.tech)
 - **Location:** Raleigh, NC
 
 ---
@@ -84,9 +84,7 @@ I am a Software Engineer with a strong foundation in kinematics and dynamics of 
 --->
 
 ## 🎯 Looking Forward
-Currently seeking full-time opportunities in Robotics and Artificial Intelligence, with a focus on:
+Currently seeking full-time opportunities in Software Engineering/Computational biology, with a focus on:
 
-- Robotic Software Engineer/Developer
-- Computer Vision / Perception Engineer
-- Artificial Intelligence/ Machine Learning engineer
-- Backend Software Engineer/Developer
+- Software Engineer/Developer
+- Computational Bio Software Engineer
