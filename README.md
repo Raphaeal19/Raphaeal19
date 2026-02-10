@@ -19,6 +19,7 @@ I am a Software Engineer with a strong foundation in kinematics and dynamics of 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Robotics Tools and Technologies
 ![ROS2](https://img.shields.io/badge/ROS2-264D73?style=for-the-badge&logo=ros&logoColor=white)
@@ -52,13 +53,14 @@ I am a Software Engineer with a strong foundation in kinematics and dynamics of 
 ![FastAPI](https://img.shields.io/badge/FastAPI-00A99D?style=for-the-badge&logo=fastapi&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-007ACC?style=for-the-badge&logo=api&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-FF9900?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-FF5722?style=for-the-badge&logo=websocket&logoColor=white)
 ![Serial UART/I2C/SPI](https://img.shields.io/badge/Serial%20(UART%2FI2C%2FSPI)-9C27B0?style=for-the-badge&logo=usb&logoColor=white)
+![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
  
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Version Control and Development
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -66,7 +68,6 @@ I am a Software Engineer with a strong foundation in kinematics and dynamics of 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
